@@ -1,0 +1,12 @@
+body {font-family:arial}
+a { color: #007f7f; text-decoration:none; }
+a:visited {color: #007f7f;}
+a:active {color: #007f7f;}
+
+.SecHeader {color: #7F7F7F;font-size:smaller;font-weight:bold;}
+.Rules {text-align:justify}
+.Comment {text-align:justify;color:gray;}
+.Guide {text-align:justify;color:gray;}
+
+ol {margin-left:-1.0em;}
+li {padding-top:0.5em;padding-bottom:0.5em;}

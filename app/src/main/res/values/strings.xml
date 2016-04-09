@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">COLREGS 72</string>
+    <string name="app_dev">Kyaw Thura Aung</string>
+    <string name="app_dev_email"><![CDATA[<a href="mailto:forwardboy009@gmail.com">]]></string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="colregs72_colregs72">COLREGS 72</string>
+
+    <string name="FullTitle">INTERNATIONAL REGULATIONS FOR PREVENTING COLLISIONS AT SEA, 1972</string>
+    <string name="TitleSub">as amended by Resolutions A464(XII), A626(15), A678(16), A736(18), A.910(22), A.1005(25) and A.1085(28)</string>
+
+    <string name="p_a">Part A</string>
+    <string name="r1">Rule 1</string>
+    <string name="r2">Rule 2</string>
+    <string name="r3">Rule 3</string>
+
+    <string name="p_b">Part B</string>
+    <string name="p_b_SI">Section I</string>
+    <string name="r4">Rule 4</string>
+    <string name="r5">Rule 5</string>
+    <string name="r6">Rule 6</string>
+    <string name="r7">Rule 7</string>
+    <string name="r8">Rule 8</string>
+    <string name="r9">Rule 9</string>
+    <string name="r10">Rule 10</string>
+
+    <string name="p_b_SII">Section II</string>
+    <string name="r11">Rule 11</string>
+    <string name="r12">Rule 12</string>
+    <string name="r13">Rule 13</string>
+    <string name="r14">Rule 14</string>
+    <string name="r15">Rule 15</string>
+    <string name="r16">Rule 16</string>
+    <string name="r17">Rule 17</string>
+    <string name="r18">Rule 18</string>
+
+    <string name="PBS3">Section III</string>
+    <string name="r19">Rule 19</string>
+
+    <string name="p_c">Part C</string>
+    <string name="r20">Rule 20</string>
+    <string name="r21">Rule 21</string>
+    <string name="r22">Rule 22</string>
+    <string name="r23">Rule 23</string>
+    <string name="r24">Rule 24</string>
+    <string name="r25">Rule 25</string>
+    <string name="r26">Rule 26</string>
+    <string name="r27">Rule 27</string>
+    <string name="r28">Rule 28</string>
+    <string name="r29">Rule 29</string>
+    <string name="r30">Rule 30</string>
+    <string name="r31">Rule 31</string>
+
+    <string name="p_d">Part D</string>
+    <string name="r32">Rule 32</string>
+    <string name="r33">Rule 33</string>
+    <string name="r34">Rule 34</string>
+    <string name="r35">Rule 35</string>
+    <string name="r36">Rule 36</string>
+    <string name="r37">Rule 37</string>
+
+    <string name="p_e">Part E</string>
+    <string name="r38">Rule 38</string>
+
+    <string name="p_f">Part F</string>
+    <string name="r39">Rule 39</string>
+    <string name="r40">Rule 40</string>
+    <string name="r41">Rule 41</string>
+
+    <string name="ANX">Annexes</string>
+    <string name="AnnexI">ANNEX I</string>
+    <string name="AnnexII">ANNEX II</string>
+    <string name="AnnexIII">ANNEX III</string>
+    <string name="AnnexIV">ANNEX IV</string>
+
+    <string name="SearchHint">Full text search</string>
+    <string name="TOC">"TABLE OF CONTENTS"</string>
+    <string name="app_ver">Ver 1.0</string>
+    <string name="imologo">IMO Logo</string>
+    <string name="supportUs">Support Us</string>
+    <string name="tab_no_title">No Title</string>
+</resources>
